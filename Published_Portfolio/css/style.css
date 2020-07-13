@@ -55,10 +55,6 @@ Table of CSS Content arrage with every section name
 /*===================================================================================
 01.		Default Css
 =====================================================================================*/
-#Jeremy {
-    opacity: 1;
-}
-
 body{
 	font-family: 'Open Sans', sans-serif;
 	font-size: 16px;
@@ -455,14 +451,15 @@ header{
 	letter-spacing: 2px;
 	font-family: 'Poppins', sans-serif;
 }
-.main_nav{
-	  width: 100%;
+.main_nav {
+    width: 100%;
     right: 0;
     left: 0;
     position: absolute;
     padding: 15px 0;
     min-height: 72px;
     z-index: 111;
+    text-shadow: 0px 4px 3px rgba(0,0,0,0.4), 0px 8px 13px rgba(0,0,0,0.1), 0px 10px 23px rgba(0,0,0,0.1);
 }
 .nav-scroll{
     left: 0;
@@ -575,6 +572,12 @@ ul#menu li a{
   position: relative;
   z-index: 9;
   opacity: 1;
+  text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+               0px 8px 13px rgba(0,0,0,0.1),
+               0px 10px 23px rgba(0,0,0,0.1);
+}
+#Jeremy {
+text-shadow: 0px 0px 0px rgba(0,0,0,0);
 }
 .banner_title{
   font-size: 30px;
