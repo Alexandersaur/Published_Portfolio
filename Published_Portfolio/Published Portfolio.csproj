@@ -210,6 +210,7 @@
     <Content Include="images\portfolio\05.jpg" />
     <Content Include="images\portfolio\06.jpg" />
     <Content Include="images\profile.png" />
+    <Content Include="images\programicons.png" />
     <Content Include="images\projart1.jpg" />
     <Content Include="images\projart11.jpg" />
     <Content Include="images\projart111.jpg" />
@@ -287,6 +288,7 @@
     <Content Include="fonts\_flaticon.scss" />
     <Content Include="images\fancybox\Thumbs.db" />
     <Content Include="images\site.webmanifest" />
+    <Content Include="images\08_30_2020 Jeremy Steward Resume.pdf" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
