@@ -289,6 +289,7 @@
     <Content Include="images\fancybox\Thumbs.db" />
     <Content Include="images\site.webmanifest" />
     <Content Include="images\08_30_2020 Jeremy Steward Resume.pdf" />
+    <Content Include="images\Jeremy Steward FINAL Resume.pdf" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
